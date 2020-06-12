@@ -1,2 +1,2 @@
 # inert-one.github.io
-Here, i am starting live preview of my conceptual website design.
+Here, i will be sharing live preview of my conceptual website design.
